@@ -10,6 +10,7 @@ namespace Esther
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Je suis msgnifique");
         }
     }
 }
