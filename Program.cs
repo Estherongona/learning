@@ -13,6 +13,7 @@ namespace Esther
             for (int i = 0; i < 7; i++)
             {
                 Console.WriteLine(i);
+                Console.WriteLine(i);
             }
         }
     }
