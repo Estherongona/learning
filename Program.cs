@@ -25,6 +25,7 @@ namespace Esther
             }
 
             Console.ReadKey();
+            // je ne comprends pas pourquoi ça ne marche pas
         }
     }
 }
