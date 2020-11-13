@@ -10,11 +10,21 @@ namespace Esther
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 7; i++)
+            int n = 0, som;
+
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine(i);
-                Console.WriteLine(i);
+                som = 0;
+                Console.WriteLine(n);
+                if ((i % 2) == 1)
+                {
+                    Console.WriteLine(i);
+                    som = som + i;
+                    Console.WriteLine(som);
+                }
             }
+
+            Console.ReadKey();
         }
     }
 }

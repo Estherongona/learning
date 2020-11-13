@@ -1,0 +1,7 @@
+E:\ProjectsC#\learning\bin\Debug\Esther.exe.config
+E:\ProjectsC#\learning\bin\Debug\Esther.exe
+E:\ProjectsC#\learning\bin\Debug\Esther.pdb
+E:\ProjectsC#\learning\obj\Debug\Esther.csprojAssemblyReference.cache
+E:\ProjectsC#\learning\obj\Debug\Esther.csproj.CoreCompileInputs.cache
+E:\ProjectsC#\learning\obj\Debug\Esther.exe
+E:\ProjectsC#\learning\obj\Debug\Esther.pdb
