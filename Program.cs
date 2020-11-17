@@ -10,22 +10,20 @@ namespace Esther
     {
         static void Main(string[] args)
         {
-            int n = 0, som;
+            int n = 45, som = 0;
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i <= n; i++)
             {
-                som = 0;
-                Console.WriteLine(n);
                 if ((i % 2) == 1)
                 {
                     Console.WriteLine(i);
                     som = som + i;
-                    Console.WriteLine(som);
                 }
             }
 
+            Console.WriteLine(som);
             Console.ReadKey();
-            // je ne comprends pas pourquoi ça ne marche pas
+            // je pense que c'est la bonne solution 
         }
     }
 }
